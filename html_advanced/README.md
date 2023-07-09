@@ -1,1 +1,0 @@
-My Third README.md for advanced html with pure Semantic.
